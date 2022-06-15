@@ -4,7 +4,9 @@ import static homework2.TwoDimensionalArrays.*;
 
 public class SummingArrayValues {
    static void checkValue(String[][] array) throws MyArraySizeException {
-       if(array.length != sizeX || array[0].length != sizeY) throw new MyArraySizeException();
+       if(array.length != sizeX || array[0].length != sizeY) {
+           throw new MyArraySizeException();
+       }
    }
 
    static Integer getSum(String[][] array) throws MyArrayDataException, MyArraySizeException {
