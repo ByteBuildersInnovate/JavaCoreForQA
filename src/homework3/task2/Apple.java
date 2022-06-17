@@ -1,4 +1,4 @@
-package homework4.Task2;
+package homework3.task2;
 
 public class Apple extends Fruit {
     @Override
