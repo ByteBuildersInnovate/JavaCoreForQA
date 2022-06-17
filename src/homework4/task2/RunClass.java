@@ -1,4 +1,4 @@
-package task2;
+package homework4.task2;
 
 public class RunClass {
 
