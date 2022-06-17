@@ -1,6 +1,4 @@
-package homework3.Task2;
-
-import homework1.Person;
+package homework4.Task2;
 
 import java.util.ArrayList;
 
